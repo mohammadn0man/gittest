@@ -1,7 +1,4 @@
 hello first demo files
 second change 
-<<<<<<< HEAD
-edit by master
-=======
-make trouble it is done by bad branch
->>>>>>> bad
+master branch changes
+slave changes
