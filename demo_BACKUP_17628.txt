@@ -1,8 +1,0 @@
-hello first demo files
-second change 
-<<<<<<< HEAD
-master changes lets see
-
-=======
-make trouble
->>>>>>> bad
